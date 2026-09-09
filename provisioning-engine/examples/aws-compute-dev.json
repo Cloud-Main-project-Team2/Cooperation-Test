@@ -1,0 +1,19 @@
+{
+  "name": "mcp-test-vm",
+  "platform": "aws",
+  "resource_type": "compute",
+  "region": "seoul",
+  "size": "1vcpu-1gb",
+  "image": "ubuntu-22.04",
+  "disk_gb": 10,
+  "tags": {
+    "env": "dev",
+    "owner": "seunghyun",
+    "project": "mcp"
+  },
+  "provider_options": {
+    "associate_public_ip": false,
+    "create_security_group": true,
+    "allowed_ssh_cidrs": []
+  }
+}

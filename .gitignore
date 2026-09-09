@@ -1,0 +1,9 @@
+
+# Terraform / 프로비저닝
+.workspaces/
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+__pycache__/
+*.pyc
