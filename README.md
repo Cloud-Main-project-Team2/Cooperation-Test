@@ -7,7 +7,7 @@
 4. git remote add origin https://github.com/Cloud-Main-project-Team2/Multi-Cloud-Platform.git  <br/>
 5. git branch -M main  <br/>
 6. git push -u origin main  <br/>
-
+사랑합니다.
 <br/>
 
 ## 팀원
@@ -15,6 +15,6 @@
 |---|---|---|
 | 팀장 | 조은솔 | Hi! |
 | 팀장 | 조은솔 | Hi! |
-| 팀원 | 김종국 |  |
-| 팀원 | 안권형 |  |
-| 팀원 | 이승현 |  |
+| 팀원 | 김종국 | 23456 |
+| 팀원 | 안권형 | 34567 |
+| 팀원 | 이승현 | 45678 |
