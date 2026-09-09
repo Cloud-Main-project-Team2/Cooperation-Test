@@ -7,7 +7,7 @@
 4. git remote add origin https://github.com/Cloud-Main-project-Team2/Multi-Cloud-Platform.git  <br/>
 5. git branch -M main  <br/>
 6. git push -u origin main  <br/>
-
+사랑합니다.
 <br/>
 
 ## 팀원
